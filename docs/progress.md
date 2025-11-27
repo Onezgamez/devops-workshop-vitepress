@@ -50,10 +50,10 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 - [x] Mijn fork lokaal gekloond en de site werkend gekregen (`pnpm dev`)
 - [x] Mijn eerste feature branch aangemaakt (`feat/personaliseer-tracker`)
 - [x] **Deze voortgangstracker bewerkt** met mijn persoonlijke informatie
-- [ ] Mijn eerste commit gemaakt met een goede commit message
-- [ ] Mijn branch gepusht naar GitHub
-- [ ] Mijn eerste Pull Request aangemaakt en gemerged
-- [ ] Geverifieerd dat mijn wijzigingen live zijn op mijn main branch
+- [x] Mijn eerste commit gemaakt met een goede commit message
+- [x] Mijn branch gepusht naar GitHub
+- [x] Mijn eerste Pull Request aangemaakt en gemerged
+- [x] Geverifieerd dat mijn wijzigingen live zijn op mijn main branch
 
 
 **Tijdstempel Voltooid:** `[Voeg toe wanneer klaar]`
@@ -71,11 +71,11 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] `.github/workflows/build.yml` bestand aangemaakt
-- [ ] Succesvol `pnpm build` lokaal uitgevoerd
-- [ ] Workflow gepusht en groene build gezien in GitHub Actions
-- [ ] Het build artifact gedownload en geverifieerd
-- [ ] Begrepen wat build artifacts zijn en waarom ze belangrijk zijn
+- [x] `.github/workflows/build.yml` bestand aangemaakt
+- [x] Succesvol `pnpm build` lokaal uitgevoerd
+- [x] Workflow gepusht en groene build gezien in GitHub Actions
+- [x] Het build artifact gedownload en geverifieerd
+- [x] Begrepen wat build artifacts zijn en waarom ze belangrijk zijn
 
 **Tijdstempel Voltooid:** `[Voeg toe wanneer klaar]`
 
@@ -92,12 +92,12 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] `tests/site.test.js` aangemaakt met content validatie tests
-- [ ] Jest geconfigureerd met `jest.config.js`
-- [ ] Tests lokaal uitgevoerd met `pnpm test`
-- [ ] Test job toegevoegd aan CI workflow
-- [ ] >80% test coverage bereikt
-- [ ] Een test failure opgelost (gesimuleerd of echt)
+- [x] `tests/site.test.js` aangemaakt met content validatie tests
+- [x] Jest geconfigureerd met `jest.config.js`
+- [x] Tests lokaal uitgevoerd met `pnpm test`
+- [x] Test job toegevoegd aan CI workflow
+- [x] >80% test coverage bereikt
+- [x] Een test failure opgelost (gesimuleerd of echt)
 
 **Mijn Test Fase Notities:**
 ```
@@ -122,11 +122,11 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] Release job toegevoegd aan CI workflow (getriggerd door tags)
-- [ ] Mijn eerste tag aangemaakt en gepusht (`v1.0.0`)
-- [ ] Een release gegenereerd met downloadbare assets
-- [ ] Release ZIP bestand gedownload en geverifieerd
-- [ ] Het verschil begrepen tussen releases en deployments
+- [x] Release job toegevoegd aan CI workflow (getriggerd door tags)
+- [x] Mijn eerste tag aangemaakt en gepusht (`v1.0.0`)
+- [x] Een release gegenereerd met downloadbare assets
+- [x] Release ZIP bestand gedownload en geverifieerd
+- [x] Het verschil begrepen tussen releases en deployments
 
 **Mijn Release Fase Notities:**
 ```
@@ -151,11 +151,11 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 </div>
 
 **Voltooiing Checklist:**
-- [ ] Deploy job toegevoegd aan CI workflow
-- [ ] Succesvol site gedeployed naar GitHub Pages
-- [ ] Live site geverifieerd op: `https://[mijn-gebruikersnaam].github.io/devops-workshop-vitepress/`
-- [ ] Een wijziging gemaakt en het automatisch zien deployen
-- [ ] De volledige CI/CD pipeline voltooid van code tot productie
+- [x] Deploy job toegevoegd aan CI workflow
+- [x] Succesvol site gedeployed naar GitHub Pages
+- [x] Live site geverifieerd op: `https://onezgamez.github.io/devops-workshop-vitepress/`
+- [x] Een wijziging gemaakt en het automatisch zien deployen
+- [x] De volledige CI/CD pipeline voltooid van code tot productie
 
 **Mijn Deploy Fase Notities:**
 ```
@@ -188,9 +188,9 @@ Houd je voortgang bij door elke DevOps fase. **Bewerk dit bestand om je status b
 
 ### Mijn DevOps Pipeline Prestatie 🏆
 
-**Definitieve Site URL:** `[Jouw gedeployde site URL]`  
-**Repository URL:** `[Jouw GitHub repo URL]`  
-**Voltooiingsdatum:** `[Wanneer je klaar bent]`
+**Definitieve Site URL:** `https://onezgamez.github.io/devops-workshop-vitepress/`  
+**Repository URL:** `https://github.com/Onezgamez/devops-workshop-vitepress`  
+**Voltooiingsdatum:** `27/11/2025 14:20`
 
 <div class="success-box">
 🎉 <strong>Gefeliciteerd!</strong> Je hebt een complete CI/CD pipeline gebouwd en de volledige DevOps levenscyclus ervaren. Deel je prestatie door je site URL toe te voegen aan de workshop chat!
